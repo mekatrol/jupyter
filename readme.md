@@ -22,7 +22,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-> OR isntall Jupyter VSCode extension from Microsoft
+> OR install Jupyter VSCode extension from Microsoft
 
 ## Verify CUDA
 
