@@ -1,0 +1,10 @@
+jupyterlab
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+
+
+# Option A: CUDA 12.4 wheels
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
