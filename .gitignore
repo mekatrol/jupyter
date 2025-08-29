@@ -87,3 +87,5 @@ dmypy.json
 
 # Local data (optional — ignore if you store datasets in repo)
 data/
+notebooks/email_spam/pop3_config.py
+notebooks/email_spam/emails.txt
