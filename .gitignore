@@ -89,3 +89,4 @@ dmypy.json
 data/
 notebooks/email_spam/pop3_config.py
 notebooks/email_spam/emails.txt
+notebooks/email_spam/*.pkl
