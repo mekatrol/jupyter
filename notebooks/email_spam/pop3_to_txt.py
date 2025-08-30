@@ -187,7 +187,7 @@ def main():
     ap.add_argument("--max", type=int, default=None,
                     help="Max messages to fetch (default: all)")
     ap.add_argument("--out",
-                    help="Output CSV path (e.g., emails.csv)")
+                    help="Output TXT path (e.g., emails.txt)")
     ap.add_argument("--default-label", choices=["ham", "spam"],
                     default="ham", help="Default label (if not trusting headers)")
     ap.add_argument("--trust-spam-headers", action="store_true",
